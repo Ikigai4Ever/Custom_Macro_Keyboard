@@ -2,8 +2,8 @@
 
 ## Parts List Links
 
-- [CONN RCP USB2.0 TYP C 24P SMD RA](https://www.molex.com/en-us/products/part-detail/2169900003)
-  - [Data Sheet](https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/216/216990/2169900003_sd.pdf?inline)
+- [UJ20-C-H-G-SMT-2A-P16-TR](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-2A-P16-TR/28173573)
+  - [Data Sheet](https://www.sameskydevices.com/product/resource/uj20-c-h-g-smt-2a-p16-tr.pdf)
 - [LED GREEN DIFFUSED 1608 SMD](https://www.digikey.com/en/products/detail/rohm-semiconductor/SML-D12P8WT86/1641798)
   - [Data Sheet](https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12p8wt86-e.pdf)
 - [RES 750 OHM 1% 1/4W 1206](https://www.digikey.com/en/products/detail/yageo/RC1206FR-07750RL/729097)
