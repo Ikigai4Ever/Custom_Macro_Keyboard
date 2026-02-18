@@ -10,3 +10,9 @@
   - [Data Sheet](https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L)
 - [FT260S-U](https://www.digikey.com/en/products/detail/ftdi-future-technology-devices-international-ltd/FT260S-U/6124909)
   - [Data Sheet](https://ftdichip.com/wp-content/uploads/2024/11/DS_FT260.pdf)
+
+## Device Design 
+
+Based on:
+
+<img width="598" height="507" alt="image" src="https://github.com/user-attachments/assets/0d413f02-db5a-4e3a-8617-bc94c1ed0072" />
