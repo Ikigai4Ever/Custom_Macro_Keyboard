@@ -12,6 +12,7 @@
   - [Data Sheet](https://ftdichip.com/wp-content/uploads/2024/11/DS_FT260.pdf)
 - [C1206C101K5HACTU 0.1nF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C101K5HACTU/7951104)
 - [1206B472K500CT 4.7nF Capactitor](https://www.digikey.com/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110)
+- [MH3261-601Y 600 Ohm Ferrite Bead](https://www.digikey.com/en/products/detail/bourns-inc/MH3261-601Y/3767690?utm_source=chatgpt.com)
 
 ## Device Design 
 
