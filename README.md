@@ -10,6 +10,8 @@
   - [Data Sheet](https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L)
 - [FT260S-U](https://www.digikey.com/en/products/detail/ftdi-future-technology-devices-international-ltd/FT260S-U/6124909)
   - [Data Sheet](https://ftdichip.com/wp-content/uploads/2024/11/DS_FT260.pdf)
+- [C1206C101K5HACTU 0.1nF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C101K5HACTU/7951104)
+- [1206B472K500CT 4.7nF Capactitor](https://www.digikey.com/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110)
 
 ## Device Design 
 
