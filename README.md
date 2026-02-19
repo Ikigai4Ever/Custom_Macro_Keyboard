@@ -14,6 +14,10 @@
 - [1206B472K500CT 4.7nF Capactitor](https://www.digikey.com/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110)
 - [MH3261-601Y 600 Ohm Ferrite Bead](https://www.digikey.com/en/products/detail/bourns-inc/MH3261-601Y/3767690?utm_source=chatgpt.com)
 - [CR1206-JW-472ELF 4.7k Resistor](https://www.digikey.com/en/products/detail/bourns-inc/CR1206-JW-472ELF/3925468?gclsrc=aw.ds&gad_source=1&gad_campaignid=20504615262&gbraid=0AAAAADrbLlj2ok7m7ybxUC7GLusgv_XUM&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjHPGPjkXvV0RHv5jPK_IXj4VpKaj7ktvIdPpmZFXTJWOG4MaYI8eK0aArocEALw_wcB)
+- [CL31B475KAHNNNE 4.7uF Capacitor](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B475KAHNNNE/3886713)
+- [C1206C104K5RACTU 0.1uF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C104K5RACTU/411248)
+- [CL31C470JIFNFNE 47pF Capacitor](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31C470JIFNFNE/3888928)
+- [C1206C103MMREC7210 10nF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C103MMREC7210/8645763)
 
 ## Device Design 
 
