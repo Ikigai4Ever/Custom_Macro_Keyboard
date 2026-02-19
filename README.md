@@ -13,6 +13,7 @@
 - [C1206C101K5HACTU 0.1nF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C101K5HACTU/7951104)
 - [1206B472K500CT 4.7nF Capactitor](https://www.digikey.com/en/products/detail/walsin-technology-corporation/1206B472K500CT/9355110)
 - [MH3261-601Y 600 Ohm Ferrite Bead](https://www.digikey.com/en/products/detail/bourns-inc/MH3261-601Y/3767690?utm_source=chatgpt.com)
+- [CR1206-JW-472ELF 4.7k Resistor](https://www.digikey.com/en/products/detail/bourns-inc/CR1206-JW-472ELF/3925468?gclsrc=aw.ds&gad_source=1&gad_campaignid=20504615262&gbraid=0AAAAADrbLlj2ok7m7ybxUC7GLusgv_XUM&gclid=Cj0KCQiAhtvMBhDBARIsAL26pjHPGPjkXvV0RHv5jPK_IXj4VpKaj7ktvIdPpmZFXTJWOG4MaYI8eK0aArocEALw_wcB)
 
 ## Device Design 
 
