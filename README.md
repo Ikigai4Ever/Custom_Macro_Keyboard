@@ -20,6 +20,7 @@
 - [C1206C103MMREC7210 10nF Capacitor](https://www.digikey.com/en/products/detail/kemet/C1206C103MMREC7210/8645763)
 - [SLW-12689-4A-N-D Slide Switch SPDT](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SLW-12689-4A-N-D/24399207)
 - [61300411121 4-pin Male Header](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/61300411121/4846827)
+- [PTS526SM15SMTR2 LFS SMD Switch Button](https://www.digikey.com/en/products/detail/c-k/PTS526SM15SMTR2-LFS/10056625)
 
 ## Device Design 
 
